@@ -1,0 +1,2 @@
+# Mashrath/Real-Time-Object-Recognition-with-Voice-Guided-Navigation-for-the-Visually-Impaired-using__OpenCV
+ Visually impaired individuals face challenges in mobility and spatial awareness due to limited real-time object detection tools. A solution with real-time recognition, hands-free operation, and multilingual voice feedback can enhance independence, safety, and ease of navigation in daily life
