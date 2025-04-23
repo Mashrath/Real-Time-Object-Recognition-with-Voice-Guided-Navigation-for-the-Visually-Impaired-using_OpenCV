@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "phone": "+1234567890",
+  "language": "te",
+  "emergencyContact": {
+    "name": "mom",
+    "relationship": "mon",
+    "phone": "9640483646"
+  }
+}
